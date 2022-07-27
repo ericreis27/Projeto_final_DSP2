@@ -6,7 +6,7 @@
 **Aluno: Eric Monteiro dos Reis**                       <br><br>
 
 #### Objetivo
-Desenvolver um programa capaz de receber um arquivo no formato pdf, contendo a digitalização de um documento que possui páginas tortas e a partir da aplicação de técnicas de processamento de imagem utilizando a lingugagem *Python*, gerar um arquivo pdf com as páginas corrigidas.
+Desenvolver um programa capaz de receber um arquivo no formato pdf, contendo a digitalização de um documento que possui páginas tortas e a partir da aplicação de técnicas de processamento de imagem utilizando a linguagem *Python*, gerar um arquivo pdf com as páginas corrigidas.
 
 #### Fluxo de funcionamento do código
 
